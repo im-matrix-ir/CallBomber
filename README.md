@@ -11,8 +11,8 @@ pip install colorama
 ___________________
 pip install requests
 ___________________
-git clone https://github.com/im-matrix-ir/CallBomber.git
+**git clone https://github.com/im-matrix-ir/CallBomber.git**
 ___________
-cd CallBomber
+**cd CallBomber**
 ____________
-python CALLBOMBER.py
+**python CALLBOMBER.py**
